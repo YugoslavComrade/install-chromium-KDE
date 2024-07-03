@@ -21,3 +21,6 @@ sudo pacman -S chromium
 chromium --no-sandbox
 ````````
 **❗ required for it to work. do not close the console, if you do chromium will also close.**
+
+✅ gj you installed chromium. send me a req on discord if y have any questions.
+
